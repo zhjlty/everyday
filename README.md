@@ -35,3 +35,4 @@
  ### 10日，friend说要多模仿别人的代码，记住了。
  ### 11日，函数对象的方法太多了，慢慢看就觉得好无聊，而且多记不住，还是先从实例开始做，碰到方法再回过头来看。下了sublime text3，比notepad++好用多了。
  ### 12日，react的3个开发工具：Gulp,Browserify,Webpack。学习npm的安装。
+ ### 13日，自从用了webstorm就再也不要用dreamweaver了。DW相比之下渣太多了。
